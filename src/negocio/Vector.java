@@ -152,4 +152,118 @@ public class Vector {
 		return "Vector {" + s + "}";
 	}
 	
+	public void invert(){
+		if (isEmpty()) {
+			System.out.println("Error: vector vacio...");
+		} else {
+			if (getDim() == 1) {
+				System.out.println("Error: vector de un solo elemento");
+			} else {
+				int m = getDim()/2;
+				for (int i = 1; i <= m; i++) {
+					int temp = v[i-1];
+					v[i-1] = v[getDim()-i];
+					v[getDim()-i] = temp;
+				}
+			}
+		}
+	}
+	
+	public void rotate(int ri){
+		int n = ri % (dim +1);
+		for (int i = 1; i <= n; i++) {
+			int temp = v[0];
+			for (int j = 0; j < dim; j++) {
+				v[j] = v[j +1];
+			}
+			v[dim] = temp;
+		}		
+	}
+	/* -------------------- Busquedas ---------- */
+	public int searchSeq(int element){
+		int i = 0;
+		while (i < getDim() && v[i] != element){
+			i++;
+		}
+		if (i < getDim()) {
+			return i+1;
+		} else {
+			return -1;
+		}
+	}
+	
+	public int searchBin(int element){
+		int start = 0; int end = getDim()-1;
+		int m = (end + start)/2;
+		while (start < end && element != v[m]) {
+			if (element > v[m]) {
+				start = m +1;
+			} else {
+				end = m -1;
+			}
+			m = (end + start)/2;
+		}
+		if (element == v[m]) {
+			return m+1;
+		} else {
+			return -1;
+		}
+	}
+	
+	/* -------------------- Ordenamientos -------------------- */
+	
+	public void bubbleSort(){
+		int temp;
+		for (int i = 1; i < getDim(); i++) {
+			for (int j = 0; j < getDim()-1; j++) {
+				if (v[j] > v[j+1]) {
+					temp = v[j];
+					v[j] = v[j+1];
+					v[j+1] = temp;
+				}
+			}
+		}
+	}
+	
+	public void insertionSort(){
+		for (int i = 1; i < getDim(); i++) {
+			int temp = v[i];
+			int j;
+			for (j = i-1; (j >= 0 && v[j] > temp); j--) {
+				v[j+1] = v[j];
+			}
+			v[j+1] = temp;
+		}
+	}
+	
+	public void selectionSort(){
+		int i, k, p, temp, limit = getDim()-1;
+		for (k = 0; k < limit; k++) {
+			p = k;
+			for (i = k+1; i <= limit; i++) {
+				if (v[i] < v[p]) {
+					p = i;
+				}
+				if (p != k) {
+					temp = v[p];
+					v[p] = v[k];
+					v[k] = temp;
+				}
+			}
+		}
+	}
+	
+	public void shellSort(){
+		for (int increment = getDim()/2; increment > 0;
+				increment = (increment == 2 ? 1: (int) Math.round(increment/ 2.2))) {
+			for (int i = increment; i < getDim(); i++) {
+				for (int j = i; j >= increment && v[j-increment]> v[j]; j -= increment) {
+					int temp = v[j];
+					v[j] = v[j - increment];
+					v[j - increment] = temp;
+				}
+			}
+		}
+	}
+	
 }
