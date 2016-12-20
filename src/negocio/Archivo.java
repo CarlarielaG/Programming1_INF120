@@ -89,11 +89,11 @@ public class Archivo {
 					bw.newLine();
 					bw.write(s);
 				}
-				fw.close();
 				bw.close();
+				fw.close();
 			} else {
 				System.out.println("Error no existe el archivo pero se acaba de crear...");
-				BufferedWriter bw = new BufferedWriter(new FileWriter(PATH + name));
+				BufferedWriter bw = new BufferedWriter(new FileWriter(PATH + name, true));
 				bw.write(s);
 				bw.close();
 			}
