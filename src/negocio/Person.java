@@ -88,9 +88,9 @@ public class Person {
 
 	@Override
 	public String toString() {
-		String data = "Nombre: " + getName() + "\nSexo: " + String.valueOf(getSex()) + "\nFecha de Nacimiento: "
-				+ getBirthdate() + "\nCedula de Identidad: " + String.valueOf(getCi()) + "\nEstado Civil: "
-				+ getMaritalStatus() + "\nDireccion: " + getAddres() + "\nNacionalidad: " + getNationality();
+		String data = "\n\tNombre: " + getName() + "\n\tSexo: " + String.valueOf(getSex()) + "\n\tFecha de Nacimiento: "
+				+ getBirthdate() + "\n\tCedula de Identidad: " + String.valueOf(getCi()) + "\n\tEstado Civil: "
+				+ getMaritalStatus() + "\n\tDireccion: " + getAddres() + "\n\tNacionalidad: " + getNationality();
 		return data;
 	}
 
