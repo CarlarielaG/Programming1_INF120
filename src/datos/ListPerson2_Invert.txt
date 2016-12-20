@@ -1,0 +1,100 @@
+Yusuf	Ballesteros Rodriguez:M:03/03/1996:16216594:Soltero:Sin Direccion:Chile
+Xavier	Jimenez Ballesteros:M:01/11/1996:12462363:Casdo:Sin Direccion:Argentina
+Saul	Jimenez Rodriguez:M:07/12/1997:17246632:Casdo:Sin Direccion:Paraguay
+Nicolás	Ballesteros Alvares:M:23/05/1996:29421790:Divorciado:Sin Direccion:Bolivia
+Miguel Angel	Vargas Aragon:M:21/03/1996:40044091:Divorciado:Sin Direccion:Brasil
+Miguel	Castillo Ballesteros:M:12/05/1990:37057299:Casdo:Sin Direccion:Brasil
+Mauricio	Fuentes Vargas:M:25/06/1996:25706523:Casdo:Sin Direccion:Bolivia
+Luis	Martinrez Alvares:M:27/05/1999:16904307:Divorciado:Sin Direccion:Inglaterra
+Kevin	Ayala Martinrez:M:09/11/1997:23337990:Casdo:Sin Direccion:España
+Javier	Mercado Aragon:M:07/06/1996:20194411:Soltero:Sin Direccion:Venezuela
+Jacob	Arteaga Fuentes:M:01/08/1992:29022219:Divorciado:Sin Direccion:Paraguay
+Israel	Ballesteros Arteaga:M:04/12/1990:17315929:Casdo:Sin Direccion:Argentina
+Isaac	Fuentes Alvares:M:01/03/1993:31299985:Divorciado:Sin Direccion:España
+Hugo	Rodriguez Aragon:M:01/11/1998:39148248:Divorciado:Sin Direccion:Chile
+Héctor	Jimenez Arteaga:M:23/10/1996:23632321:Divorciado:Sin Direccion:Argentina
+Félix	Alvares Fuentes:M:20/06/1992:17024810:Soltero:Sin Direccion:España
+Elías	Jimenez Martinrez:M:07/03/1998:28341182:Casdo:Sin Direccion:Puerto Rico
+David	Valverde Vargas:M:11/01/1993:23404645:Soltero:Sin Direccion:Bolivia
+Darío	Ayala Jimenez:M:11/09/1991:25115574:Divorciado:Sin Direccion:Puerto Rico
+Daniel	Fuentes Mercado:M:29/01/1993:18932544:Casdo:Sin Direccion:Italia
+Cristian	Ayala Arteaga:M:08/04/1993:40462992:Soltero:Sin Direccion:Honduras
+Cesar	Rodriguez Aragon:M:16/12/1990:29002297:Divorciado:Sin Direccion:Honduras
+Carlos	Martinrez Valverde:M:19/05/1991:39548157:Soltero:Sin Direccion:Francia
+Arturo	Jimenez Martinrez:M:04/12/1997:13038113:Casdo:Sin Direccion:Puerto Rico
+Aquiles	Castillo Rodriguez:M:21/04/1995:25003370:Divorciado:Sin Direccion:Venezuela
+Ángel	Mercado Castillo:M:21/01/1999:31041580:Casdo:Sin Direccion:Cuba
+Alejandro	Vargas Jimenez:M:18/12/1999:22440276:Divorciado:Sin Direccion:Brasil
+Zoe	Castillo Valverde:F:35591928:Casdo:Sin Direccion:Francia:Honduras
+Yvonne	Fuentes Vargas:F:22/06/1995:41861611:Divorciado:Sin Direccion:Honduras
+Ximena	Jimenez Fuentes:F:29/08/1996:35418983:Soltero:Sin Direccion:Cuba
+Vanesa	Mercado Ayala:F:21/05/1993:25190333:Casdo:Sin Direccion:Chile
+Soledad	Castillo Herrera:F:01/02/1997:32682174:Casdo:Sin Direccion:Argentina
+Sol	Ballesteros Ayala:F:23/12/1991:19893086:Casdo:Sin Direccion:Brasil
+Sofía	Ayala Arteaga:F:25/07/1990:16859447:Soltero:Sin Direccion:Mexico
+Silvia	Vargas Castillo:F:07/12/1991:18512888:Casdo:Sin Direccion:Puerto Rico
+Noemí	Alvares Herrera:F:09/12/1999:26454325:Soltero:Sin Direccion:Chile
+Nélida	Mercado Castillo:F:02/09/1996:21554260:Divorciado:Sin Direccion:Honduras
+Natalia	Fuentes Castillo:F:20/07/1993:26645658:Casdo:Sin Direccion:Francia
+Nadia	Castillo Martinrez:F:11/04/1998:24088308:Divorciado:Sin Direccion:Argentina
+Milenka	Mercado Herrera:F:17/05/1995:26734635:Soltero:Sin Direccion:Honduras
+Mariana	Castillo Herrera:F:28/02/1991:26578670:Soltero:Sin Direccion:Italia
+Maria Geraldine	Valverde Arteaga:F:18/11/1994:41256407:Casdo:Sin Direccion:Puerto Rico
+Maria	Martinrez Aragon:F:02/04/1990:36138977:Soltero:Sin Direccion:Paraguay
+Malvina	Valverde Martinrez:F:28/12/1991:27786174:Divorciado:Sin Direccion:Argentina
+Maite	Castillo Rodriguez:F:21/04/1999:24039880:Casdo:Sin Direccion:Chile
+Magdalena	Rodriguez Herrera:F:06/04/1999:18453984:Divorciado:Sin Direccion:Brasil
+Magalí	Alvares Aragon:F:11/09/1991:38354912:Divorciado:Sin Direccion:Chile
+Lina	Aragon Ayala:F:08/08/1991:32672653:Soltero:Sin Direccion:Puerto Rico
+Liliana	Castillo Vargas:F:18/05/1991:12460313:Soltero:Sin Direccion:Italia
+Lía	Arteaga Aragon:F:23/10/1992:25867186:Casdo:Sin Direccion:Argentina
+Laura	Valverde Vargas:F:21/09/1991:18728065:Divorciado:Sin Direccion:España
+Kira	Rodriguez Ayala:F:11/07/1990:29273552:Divorciado:Sin Direccion:Chile
+Keisi	Arteaga Mercado:F:18/07/1992:36785201:Casdo:Sin Direccion:España
+Katyuska	Mercado Herrera:F:12/02/1995:18684992:Soltero:Sin Direccion:Mexico
+Katia	Valverde Valverde:F:27/06/1995:13000936:Soltero:Sin Direccion:Argentina
+Karina	Aragon Valverde:F:15/12/1999:35220699:Casdo:Sin Direccion:Chile
+Karim	Jimenez Fuentes:F:29/10/1996:34902252:Divorciado:Sin Direccion:España
+Karen	Ayala Vargas:F:16/08/1996:17511951:Divorciado:Sin Direccion:Venezuela
+Jessica	Ballesteros Mercado:F:12/06/1990:39565838:Casdo:Sin Direccion:Brasil
+Jennifer	Castillo Jimenez:F:30/01/1999:32726837:Casdo:Sin Direccion:Bolivia
+Jaqueline	Aragon Fuentes:F:22/10/1993:29168307:Divorciado:Sin Direccion:Puerto Rico
+Ivonne	Jimenez Arteaga:F:23/10/1998:18076187:Soltero:Sin Direccion:Italia
+Isabel	Aragon Alvares:F:06/04/1993:13198630:Divorciado:Sin Direccion:Inglaterra
+Isa	Herrera Rodriguez:F:28/05/1990:14036873:Soltero:Sin Direccion:Bolivia
+Irene	Aragon Ballesteros:F:25/01/1995:20096825:Casdo:Sin Direccion:Paraguay
+Ingrid	Fuentes Valverde:F:31/10/1992:18542315:Casdo:Sin Direccion:Argentina
+Inés	Vargas Martinrez:F:11/03/1993:17051867:Soltero:Sin Direccion:Argentina
+Helena	Ayala Martinrez:F:27/03/1990:19304031:Soltero:Sin Direccion:Brasil
+Guisela	Ballesteros Vargas:F:20/01/1993:31012085:Soltero:Sin Direccion:Argentina
+Grisel	Ballesteros Arteaga:F:01/11/1994:22625505:Casdo:Sin Direccion:Suecia
+Graciela	Herrera Ballesteros:F:07/09/1997:38296157:Casdo:Sin Direccion:Chile
+Geraldine	Alvares Mercado:F:13/12/1990:31950273:Soltero:Sin Direccion:Mexico
+Gabriela	Alvares Valverde:F:13/06/1999:42200477:Soltero:Sin Direccion:Puerto Rico
+Fanny	Aragon Mercado:F:27/04/1999:13660440:Divorciado:Sin Direccion:España
+Fabiola	Alvares Ballesteros:F:05/02/1997:18451721:Soltero:Sin Direccion:Puerto Rico
+Eva	Ayala Jimenez:F:20/12/1999:33423022:Divorciado:Sin Direccion:Brasil
+Eloisa	Alvares Rodriguez:F:15/03/1991:25589916:Soltero:Sin Direccion:Honduras
+Elisa	Fuentes Rodriguez:F:05/12/1999:18310358:Divorciado:Sin Direccion:Bolivia
+Elena	Rodriguez Vargas:F:17/02/1999:14468921:Casdo:Sin Direccion:Argentina
+Doris	Martinrez Valverde:F:29/08/1992:39802760:Soltero:Sin Direccion:Chile
+Débora	Ayala Arteaga:F:10/04/1997:17291991:Casdo:Sin Direccion:Argentina
+Dayana	Ballesteros Martinrez:F:28/02/1991:17097270:Casdo:Sin Direccion:Cuba
+Dana	Valverde Rodriguez:F:03/10/1998:16680740:Casdo:Sin Direccion:Honduras
+Cecilia	Vargas Ballesteros:F:18/07/1992:42279802:Casdo:Sin Direccion:Paraguay
+Carolina	Ballesteros Castillo:F:13/01/1995:31636011:Divorciado:Sin Direccion:Venezuela
+Carmen	Rodriguez Mercado:F:12/07/1999:36149738:Divorciado:Sin Direccion:España
+Carla	Jimenez Ballesteros:F:10/04/1993:25100907:Casdo:Sin Direccion:Italia
+Camila	Ayala Jimenez:F:29/06/1994:40513727:Casdo:Sin Direccion:Inglaterra
+Brenda	Aragon Castillo:F:16/05/1990:21112134:Divorciado:Sin Direccion:Argentina
+Blanca	Ayala Rodriguez:F:17/03/1998:20820397:Divorciado:Sin Direccion:Francia
+Bibiana	Vargas Jimenez:F:26/12/1994:40682915:Soltero:Sin Direccion:España
+Bianca	Aragon Aragon:F:24/08/1995:14125890:Soltero:Sin Direccion:Mexico
+Angélica	Arteaga Herrera:F:06/11/1996:40808503:Divorciado:Sin Direccion:Chile
+Ana	Vargas Jimenez:F:16/11/1991:13892169:Divorciado:Sin Direccion:Puerto Rico
+Alina	Castillo Vargas:F:05/04/1995:12833951:Casdo:Sin Direccion:Italia
+Alicia	Rodriguez Valverde:F:09/09/1994:36723535:Soltero:Sin Direccion:Venezuela
+Alejadra	Mercado Castillo:F:15/05/1995:39143488:Divorciado:Sin Direccion:Bolivia
+Ainara	Valverde Castillo:F:01/12/1998:23238434:Divorciado:Sin Direccion:Cuba
+Ágata	Vargas Arteaga:F:17/10/1997:19669055:Casdo:Sin Direccion:Paraguay
+Abigaíl	Aragon Mercado:F:29/04/1993:22961254:Casdo:Sin Direccion:Brasil
