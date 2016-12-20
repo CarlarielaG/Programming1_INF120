@@ -131,4 +131,17 @@ public class Archivo {
 		}
 		return line;
 	}
+
+	public void invertFile(String nameFile) {
+		if (exists(nameFile)) {
+			int nline = getNumberLine(nameFile);
+			String nameFileInvert = nameFile.substring(0, nameFile.length() - 4) + "_Invert.txt";
+			for (int i = nline; i > 0; i--) {
+				String temp = readLine(nameFile, i);
+				write(nameFileInvert, temp);
+			}
+		} else {
+			System.out.println("Error no existe el archivo...");
+		}
+	}
 }
