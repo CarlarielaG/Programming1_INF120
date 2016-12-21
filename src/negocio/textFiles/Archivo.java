@@ -1,4 +1,4 @@
-package negocio;
+package negocio.textFiles;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
