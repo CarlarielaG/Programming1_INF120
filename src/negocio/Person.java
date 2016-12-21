@@ -3,6 +3,8 @@ package negocio;
 
 import java.util.StringTokenizer;
 
+import negocio.textFiles.Archivo;
+
 /**
  * 
  * @author Miguel Angel Martinez Rodriguez

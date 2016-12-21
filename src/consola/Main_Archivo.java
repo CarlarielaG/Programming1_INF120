@@ -5,8 +5,8 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
-import negocio.Archivo;
 import negocio.Person;
+import negocio.textFiles.Archivo;
 
 public class Main_Archivo {
 	private static volatile boolean running;
